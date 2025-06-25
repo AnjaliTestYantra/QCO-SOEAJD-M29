@@ -8,6 +8,6 @@ public class SearchSalesTest {
 	@Test
 	public void searchTest()
 	{
-		Reporter.log("Search sales ",true);
+		Reporter.log("Search sales ! ",true);
 	}
 }

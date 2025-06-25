@@ -8,7 +8,7 @@ public class SalesReportTest {
 	@Test
 	public void salesRepTest()
 	{
-		Reporter.log("Sales report ",true);
+		Reporter.log("Sales report !",true);
 	}
 	
 
