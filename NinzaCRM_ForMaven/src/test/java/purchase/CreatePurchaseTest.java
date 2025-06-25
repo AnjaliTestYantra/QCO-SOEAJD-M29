@@ -8,4 +8,8 @@ public class CreatePurchaseTest {
 	public void createPurchaseordertest() {
 		Reporter.log("Sales Created ", true);
 	}
+	@Test
+	public void createOrdertest() {
+		Reporter.log("Order Created ", true);
+	}
 }
