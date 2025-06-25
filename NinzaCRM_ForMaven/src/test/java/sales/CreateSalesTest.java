@@ -14,6 +14,7 @@ public class CreateSalesTest {
 	@Test
 	public void productInfo() {
 		Reporter.log("Product info ",true);
+		Reporter.log("New change");
 
 	}
 
