@@ -9,7 +9,11 @@ public class CreateContactsTest {
 	@Test
 	public void createcontactTest()
 	{
-		Reporter.log("Created Sales", true);
+		Reporter.log("Created contact", true);
 	}
 	
+	public void simplecontactTest()
+	{
+		Reporter.log("Simple contact", true);
+	}
 }
