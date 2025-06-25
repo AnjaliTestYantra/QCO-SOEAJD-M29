@@ -3,13 +3,11 @@ package sales;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class SalesReportTest {
+public class SearchSalesTest {
 
 	@Test
-	public void salesRepTest()
+	public void searchTest()
 	{
-		Reporter.log("Sales report ",true);
+		Reporter.log("Search sales ",true);
 	}
-	
-
 }
