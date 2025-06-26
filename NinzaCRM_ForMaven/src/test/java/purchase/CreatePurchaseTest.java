@@ -11,6 +11,6 @@ public class CreatePurchaseTest {
 	@Test
 	public void createOrdertest() {
 		Reporter.log("Order Created", true);
-		Reporter.log(" Purchase Order Created ", true);
+		Reporter.log("Purchase Order Created ", true);
 	}
 }
