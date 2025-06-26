@@ -16,4 +16,10 @@ public class CreateContactsTest {
 	{
 		Reporter.log("Simple contact", true);
 	}
+
+	
+	public void SampleTest()
+	{
+		Reporter.log("Simple contact", true);
+	}
 }
