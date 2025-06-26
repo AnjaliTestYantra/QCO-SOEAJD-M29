@@ -7,5 +7,6 @@ public class CreateLeadTest {
 	@Test(groups = "RegressionTest")
 	public void createLeadWithCampTest() {
 		Reporter.log("Lead With Campaign Created Successfully", true);
+		Reporter.log("sample", true);
 	}
 }
