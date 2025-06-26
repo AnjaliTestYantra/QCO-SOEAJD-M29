@@ -11,5 +11,18 @@ public class ContactclassTest {
 		Reporter.log("Contact created", true);
 	}
 	
+	@Test
+	public void contactInfo() {
+		
+		Reporter.log("Contact info", true);
+	}
+	@Test
+	public void contactEmail() {
+		
+		Reporter.log("email  info", true);
+	}
+	
+
+	
 
 }
