@@ -14,7 +14,7 @@ public class ContactclassTest {
 	@Test
 	public void contactInfo() {
 		
-		Reporter.log("Contact  info", true);
+		Reporter.log("Contact info", true);
 	}
 	@Test
 	public void contactEmail() {
