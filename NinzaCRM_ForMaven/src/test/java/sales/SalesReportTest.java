@@ -9,5 +9,6 @@ public class SalesReportTest {
 	public void salesRepTest()
 	{
 		Reporter.log("Sales report success",true);
+		Reporter.log("Sales report and product success",true);
 	}
 }
