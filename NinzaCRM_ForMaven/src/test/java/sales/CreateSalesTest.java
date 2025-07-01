@@ -9,6 +9,7 @@ public class CreateSalesTest {
 	public void createSaleTest()
 	{
 		Reporter.log("SuccessFully Created Sales",true);
+		Reporter.log("SuccessFully ",true);
 	}
 
 }
