@@ -9,7 +9,7 @@ public class LeadTest {
 		Reporter.log("Clicked add button",true);
 		Reporter.log("updated required details",true);
 		Reporter.log("LEAD added successfully",true);
-		Reporter.log("LEAD1 added successfully",true);
+		Reporter.log("LEAD3 added successfully",true);
 	}
 	
 }
