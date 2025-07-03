@@ -17,7 +17,6 @@ public class CreateContactsTest {
 	@Test
 	public void createConactCampTest1() {
 		Reporter.log("Contact With Campaign1 Created Successfully", true);
-		Reporter.log("Contact With Campaign2 Created Successfully", true);
 
 	}
 
